@@ -1,0 +1,29 @@
+{
+  "name": "sc-form",
+  "version": "0.0.1",
+  "description": "antd动态表单",
+  "main": "./es/index.js",
+  "scripts": {},
+  "keywords": [
+    "form",
+    "antd form"
+  ],
+  "author": "@kd",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/plugin-transform-modules-umd": "^7.12.1",
+    "@babel/plugin-transform-runtime": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-react": "^7.12.10",
+    "babel-loader": "^8.2.2",
+    "chalk": "^4.1.0",
+    "core-js": "^3.8.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "webpack": "^5.11.0"
+  },
+  "dependencies": {
+    "antd": "^4.9.4"
+  }
+}
