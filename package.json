@@ -1,6 +1,6 @@
 {
   "name": "sc-form-render",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "antd动态表单",
   "main": "./es/index.js",
   "scripts": {},
